@@ -15,4 +15,5 @@ and also atlast using the source vector classifier also we get the accuracy scor
 Thanks 
 Krishna 
 
+video link: https://drive.google.com/file/d/1Y77fg9lTr7KcyknmYc4q97QbdBPGe4aa/view?usp=sharing
 
